@@ -1,0 +1,12 @@
+[project]
+name = "nox-plugin-proposal"
+version = "0.0.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9,<4.0"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "nox>=2025.5.1",
+]
